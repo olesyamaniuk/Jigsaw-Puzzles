@@ -547,10 +547,11 @@ a {
   .t-i-how-container {
     margin: auto;
     width: 1440px;
-    padding: 80px 736px 0 160px;
+    height: 472px;
+    padding: 80px 160px;
   }
   .t-i-how-text-bold {
-    padding-top: 152px;
+    width: 544px;
   }
 }
 
